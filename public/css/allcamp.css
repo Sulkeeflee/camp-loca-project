@@ -1,0 +1,45 @@
+/* Add custom styles for the campgrounds page */
+
+/* Center the "Search and View Our Campgrounds" heading */
+.display-6 {
+    text-align: center;
+  }
+  
+  /* Adjust the margin of the search form */
+  .form-control {
+    margin-right: 10px;
+  }
+  
+  /* Style the campgrounds cards */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card img {
+    max-height: 200px;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+  }
+  
+  .card-text {
+    font-size: 1.2rem;
+  }
+  
+  .card-text small {
+    font-size: 1rem;
+  }
+  
+  /* Style the "View" button */
+  .btn-dark {
+    margin-top: 10px;
+  }
+  
+  /* Set the map container height */
+  #map {
+    height: 500px;
+  }
+
+  
+  
